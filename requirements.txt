@@ -1,0 +1,8 @@
+Django==2.2.10
+joblib==0.15.1
+numpy==1.18.5
+pytz==2020.1
+scikit-learn==0.23.1
+scipy==1.4.1
+sqlparse==0.3.1
+threadpoolctl==2.1.0
